@@ -1,1 +1,1 @@
-# Precision Harvesting in Cluttered Environments: Integrating End Effector Design with Dual Camera Perception
+# A Soft Touch for Hard Tasks: Vision-Guided Hybrid Manipulation in Cluttered Environments
